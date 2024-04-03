@@ -1,0 +1,23 @@
+{
+  "item.guarding.netherite_shield": "Escudo de Netherita",
+  "item.modifiers.shielding": "Cuando estás protegido:",
+  "item.modifiers.netherite_shield": "+2 Resistencia al Retroceso",
+  "enchantment.guarding.barbed": "Espinoso",
+  "enchantment.guarding.pummeling": "Apaleador",
+  "enchantment.guarding.retribution": "Retribución",
+  "enchantment.guarding.barbed.description": "Aplica espinas al escudo",
+  "enchantment.guarding.pummeling.description": "Aumenta el retroceso del parry",
+  "enchantment.guarding.retribution.description": "",
+  "subtitle.guarding.item.shield.parry": "Parrys con escudo",
+  "subtitle.guarding.item.netherite_shield.block": "Bloqueos con escudo",
+  "subtitle.guarding.item.netherite_shield.break": "Roturas de escudo",
+  "subtitle.guarding.item.netherite_shield.parry": "Parrys con escudo",
+  "subtitle.guarding.item.netherite_shield.equip": "Equipamiento de equipo",
+
+  "advancements.guarding.story.decorate_shield_with_banner.title": "¡Protección con Estilo!",
+  "advancements.guarding.story.decorate_shield_with_banner.desc": "Decora un escudo con una bandera.",
+  "advancements.guarding.story.kill_mob_with_own_arrow.title": "¡Parry a Esto, Casual!",
+  "advancements.guarding.story.kill_mob_with_own_arrow.desc": "Mata a un Esqueleto o Saqueador parando su propia flecha.",
+  "advancements.guarding.nether.obtain_netherite_shield.title": "¡En Guardia!",
+  "advancements.guarding.nether.obtain_netherite_shield.desc": "Usa un Lingote de Netherita para mejorar un escudo."
+}
